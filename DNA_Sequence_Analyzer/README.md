@@ -1,8 +1,8 @@
-# DNA Analyzer V1
+# DNA Analyzer
 
 ## Description
 
-DNA Analyzer V1 is a simple Python program that validates a DNA sequence and performs basic analysis. It calculates the sequence length, counts each nucleotide (A, T, G, and C), and determines the GC and AT percentages.
+DNA Analyzer is a simple Python program that validates a DNA sequence and performs basic analysis. It calculates the sequence length, counts each nucleotide (A, T, G, and C), and determines the GC and AT percentages.
 
 ---
 
