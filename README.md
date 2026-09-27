@@ -8,5 +8,6 @@ This repository contains Python programs I built while learning bioinformatics a
 - AT Percentage Calculator
 - DNA Sequence Analyzer
 - DNA Sequence Analyzer v2
+- DNA To RNA
 
 More projects will be added as I continue learning.
